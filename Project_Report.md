@@ -71,16 +71,14 @@ The report is divided into role-specific analysis pages:
 ## 📸 Dashboard Screenshots
 
 ### Main Dashboard View
-![Main View](screenshots/main_dashboard_view.png)
-*(Replace this link with your actual image path)*
+<img width="1449" height="816" alt="Screenshot 2025-12-15 143844" src="https://github.com/user-attachments/assets/d5852565-9e96-44f0-a8bb-b5bd7868e6b2" />
 
 ### Player Analysis (Scatter Plot)
-![Player Analysis](screenshots/player_analysis.png)
-*(Replace this link with your actual image path)*
+<img width="1449" height="384" alt="5" src="https://github.com/user-attachments/assets/a5d5af6f-eb67-4c9e-9a26-7042435fa4aa" />
+
 
 ### Final 11 Selection
-![Final 11](screenshots/final_11.png)
-*(Replace this link with your actual image path)*
+<img width="1446" height="815" alt="Screenshot 2025-12-15 143943" src="https://github.com/user-attachments/assets/da100aac-99fa-4259-9b62-96aea6671c9b" />
 
 ## 🔄 Conclusion
 The analysis successfully identified a balanced "Team of the Tournament" that statistically outperforms individual team squads. This project demonstrates how sports analytics can be used to make objective selection decisions, moving beyond intuition to data-backed strategies.
